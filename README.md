@@ -39,8 +39,8 @@ The final notebook recommends a balanced Logistic Regression approach, consideri
 
 ## Project Files
 
-- `Telco_Churn_DS67_Final_Notebook.ipynb` — Complete group machine learning workflow.
-- `WA_Fn-UseC_-Telco-Customer-Churn.csv` — Customer churn dataset.
+- [View Jupyter Notebook](Notebook/Telco_Churn_DS67_Final_Notebook.ipynb) — Complete group machine learning workflow.
+- [View Dataset](Dataset/WA_Fn-UseC_-Telco-Customer-Churn.csv) — Customer churn dataset.
 
 ## Team Project Acknowledgement
 
